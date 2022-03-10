@@ -16,3 +16,5 @@ $output = curl_exec($ch);
 curl_close($ch);
 $nano = preg_replace("/^AS[0-9]+\sPT\s/", "", $output);
 echo $nano;
+
+var_dump($_SERVER);
