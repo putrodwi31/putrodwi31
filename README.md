@@ -3,10 +3,10 @@ Currently working with Web Developer, I love learn in Programming and IoT.
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/-PHP-blue?&logo=PHP" />
-    <img src="https://img.shields.io/badge/-Javascript-blue?&logo=javascript" />
-    <img src="https://img.shields.io/badge/%20-Visual%20Studio%20Code-blue?&logo=VS%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/PHP-blue?&logo=PHP" />
+    <img src="https://img.shields.io/badge/Javascript-blue?&logo=javascript" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=VS%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/putrodwi31" />
 </p>
 
