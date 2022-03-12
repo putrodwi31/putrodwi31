@@ -8,7 +8,7 @@ Currently working with Web Developer, I love learn in Programming and IoT.
     <img src="https://img.shields.io/badge/Code-Javascript-blue?&logo=javascript" />
     <img src="https://img.shields.io/badge/Code-CodeIgniter-blue?&logo=codeigniter" />
     <img src="https://img.shields.io/badge/Code-Laravel-blue?&logo=laravel" />
-    <img src="https://img.shields.io/badge/Code-React-blue?&logo=react" />
+    <img src="https://img.shields.io/badge/|-React-blue?&logo=react" />
     <img src="https://img.shields.io/badge/Text%20editor-VS Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
