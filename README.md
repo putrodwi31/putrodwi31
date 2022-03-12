@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Putro!
-Currently working with Web Development, I love learn in Programming and IoT.  
+Currently working with Web Developer, I love learn in Programming and IoT.  
 
 ### Tools:
 <p>
