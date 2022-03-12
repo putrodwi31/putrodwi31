@@ -14,7 +14,10 @@ $output = curl_exec($ch);
 
 // tutup curl 
 curl_close($ch);
-$nano = preg_replace("/^AS[0-9]+\sPT\s/", "", $output);
-echo $nano;
 
-var_dump($_SERVER);
+if (preg_match("/PT/i", $output) != 0) {
+    $nano = preg_replace("/^AS[0-9]+\sPT\s/", "", $output);
+} else {
+    $nano = preg_replace("/^AS[0-9]+\s/", "", $output);
+}
+echo $nano;
