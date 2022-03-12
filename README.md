@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/putrodwi31/putrodwi31/master/wave.gif" width="30px">
 
 I am Putro Dwi, people call me Putro.
 
