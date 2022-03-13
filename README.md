@@ -3,7 +3,7 @@
 I am Putro Dwi, people call me Putro. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-putrodwi31-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/putrodwi31/)](https://instagram.com/putrodwi31)
-[![Gmail Badge](https://img.shields.io/badge/-putrodwi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:putrodwi31@gmail.com)](mailto:putrodwi31@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-putrodwi31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:putrodwi31@gmail.com)](mailto:putrodwi31@gmail.com)
 
 
 ## ⚡ Technologies
